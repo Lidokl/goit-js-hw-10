@@ -30,7 +30,7 @@ const refs = {
       return;
     }
   
-    if (2 < countries.length && countries.length < 10) {
+    if (1 < countries.length && countries.length < 10) {
       renderCountryList(countries);
       return;
     }
